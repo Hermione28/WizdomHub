@@ -11,7 +11,7 @@ This repository contains all the code that is required for building this project
 
 **Prajakta Jagdale**
 
-[LinkedIn](www.linkedin.com/in/prajakta-jagdale-665a0a257)
+[LinkedIn](https://www.linkedin.com/in/prajakta-jagdale-665a0a257)
 
 [Github](https://github.com/Hermione28)
 
