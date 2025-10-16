@@ -1,26 +1,30 @@
 
 
-# **WizdomHub**
+
+# WizdomHub
 
 This repository contains all the code that is required for building this project **WizdomHub**, an Educational Learning Website.
 
 ---
 
-**Author**
+### Author
 
-**LinkedIn**
-**Github**
-**Live**
+**Prajakta Jagdale**
+
+[LinkedIn](https://linkedin.com/in/prajaktajagdale)
+
+[Github](https://github.com/Hermione28)
+
 
 ---
 
-## **Getting Started**
+### Getting Started
 
 This project was built using **HTML**, **CSS**, and image assets.
 
 ---
 
-## **Available Files**
+### Available Files
 
 In the project directory, you will find:
 
@@ -30,42 +34,38 @@ In the project directory, you will find:
 
 ---
 
-## **How to Run the Project**
+### How to Run the Project
 
-In the project directory, you can run:
+In the project directory, you can:
 
-```bash
-git clone https://github.com/Hermione28/WizdomHub.git
-```
+1. Clone the repository
 
-```bash
-cd WizdomHub-main
-```
+   ```
+   git clone https://github.com/Hermione28/WizdomHub.git
+   ```
+2. Navigate to the folder
 
-Open the **index.html** file directly in your browser or use a **Live Server** extension in VS Code.
+   ```
+   cd WizdomHub-main
+   ```
+3. Run the project
+   Open the `index.html` file directly in your browser or use a live server extension in VS Code.
 
 ---
 
-## **About**
+### About
 
 **WizdomHub** is an educational web platform focused on **personalized learning**, **affordability**, and **innovation in education**.
-It is designed with a **clean interface** and **responsive design** suitable for all devices.
+It is designed with a clean interface and responsive design suitable for all devices.
 
+---
+### Languages
 
+HTML
+CSS
 
 ---
 
-## **Languages**
-
-**HTML**
-84.0%
-
-**CSS**
-16.0%
-
----
-
-**Footer**
 © 2025 GitHub, Inc.
 
 
